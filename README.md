@@ -21,11 +21,9 @@ https://documenter.getpostman.com/view/3152687/S11PrGGm#69bd06b4-efb3-ef24-c981-
 
 I have used Express and Sequelize library to build this API, i have to say its not prefect but i will meet the interview request.
 
-## for MySQL database i have used  Amazon Web Services RDS . i consider my self AWS ninja.***
 
 
-
-## Todos and Things that if i had more time to work on 
+## Todos 
 
 
 * validation on all end points
